@@ -2,9 +2,9 @@
 
 **Name:** Gopal Digambar Dhanokar\
 **Company:** CODTECH IT SOLUTION\
-**ID:** CT6ES637\
+**ID:** CT12DS2226\
 **Domain:** Embedded System\
-**Duration:** JUNE 25th,2024 to AUGUST 10th, 2024
+**Duration:** AUGUST 25th, 2024 to OCTOBER 25th, 2024
 
 
 #**Temperature and Humidity monitoring with DHT Sensor and Arduino Uno r3**
